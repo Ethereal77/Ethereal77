@@ -85,6 +85,6 @@ and efficient system design.
 -----------------------------------------------------------------------------------------
 
 ## 📫 Contact
-**LinkedIn:** [Mario Guerra](https://www.linkedin.com/in/mario-guerra-gonz%C3%A1lez-5a2162304/)  
+**LinkedIn:** [Mario Guerra](https://www.linkedin.com/in/mguerra-dev/)  
 **Email:** mario.guerra.dev@outlook.com  
 **GitHub:** This profile 😊
